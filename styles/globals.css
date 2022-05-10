@@ -14,3 +14,6 @@
   }
 }
 
+  .icon {
+    @apply cursor-pointer w-9 h-9 hover:bg-[#5c15a8] hover:bg-opacity-10 flex items-center justify-center rounded-full transition ease-out
+  }
